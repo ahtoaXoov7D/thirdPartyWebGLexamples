@@ -1,2 +1,2 @@
-# webGLexamples
-webGLexamples
+# thirdPartyWebGLexamples
+thirdPartyWebGLexamples
